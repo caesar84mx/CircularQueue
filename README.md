@@ -19,7 +19,7 @@ To include CircularQueue in your project, add the following dependency to your b
 
 ```kotlin
 dependencies {
-    implementation("com.example:circularqueue:1.0.0")
+    implementation("com.caesar84mx:circularqueue:1.0.0")
 }
 ```
 
@@ -27,7 +27,7 @@ For Maven, add the following to your pom.xml:
 
 ```xml
 <dependency>
-    <groupId>com.example</groupId>
+    <groupId>com.caesar84mx</groupId>
     <artifactId>circularqueue</artifactId>
     <version>1.0.0</version>
 </dependency>
